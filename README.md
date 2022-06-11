@@ -1,4 +1,4 @@
-### Hi, there I'm Javohir Khamidullaev <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47qo29j2lhe71i5lr0vmfqn8hz3hhe3d3a2kypvm3t&rid=giphy.gif&ct=s" width="40px">
+### Hi, there I'm Javohir Khamidullaev <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47qo29j2lhe71i5lr0vmfqn8hz3hhe3d3a2kypvm3t&rid=giphy.gif&ct=s" width="40px" />
 
 <!--
 **Javohir-dev/Javohir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
