@@ -1,4 +1,4 @@
-### Hi, there I'm Javohir Khamidullaev <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+### Hi, there I'm Javohir Khamidullaev <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47qo29j2lhe71i5lr0vmfqn8hz3hhe3d3a2kypvm3t&rid=giphy.gif&ct=s" style="width:40px">
 
 <!--
 **Javohir-dev/Javohir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
