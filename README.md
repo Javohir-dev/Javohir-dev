@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there I'm Javohir Khamidullaev <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
 
 <!--
 **Javohir-dev/Javohir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
