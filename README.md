@@ -7,6 +7,6 @@
 <br />
 - 📍 &nbsp;   Current location: Uzbakistan, Tashkent.
 - 📝 &nbsp; Ask me about anything, I'm happy to help.:)
-- 📨 &nbsp; How to reach me:  [@Javohir.dev](https://instagram.com/javohir.dev/)
+- 📨 &nbsp; How to reach me:  [@it_galactica](https://instagram.com/it_galactica/)
 <br />
 
