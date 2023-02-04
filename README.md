@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javohir-dev&show_icons=true&locale=en" alt="javohir-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javohir-dev&" alt="javohir-dev" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javohir-dev&" alt="javohir-dev" /></p>
