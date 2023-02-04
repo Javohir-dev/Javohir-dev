@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **javohir.py@gmail.com**
 
-- 📄 Know about my experiences: [My resume](https://docs.google.com/document/d/1LFUeJXTcZH96lxPqpqv2zkf5x2_N7d4MR7IiO-E_GLk/edit?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://docs.google.com/document/d/1CSotkqXPFIe4h4tSXrill7FlC8FZwVTnN0ZLso4IBBQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
