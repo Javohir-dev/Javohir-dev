@@ -5,7 +5,7 @@
 
 - 🔭 I created my free time: [IT Galactica](https://it-galactica.netlify.app/)
 
-- 🌱 I'm currently learning: [FullStack Python (MohirDev)](https://praktikum.mohirdev.uz/)
+- 🌱 I'm currently learning: [FullStack Python (MohirDev)](https://mohirdev.uz/)
 
 - 👨‍💻 All of my projects are available at: [https://t.me/KhamidullaevJavohir](https://t.me/KhamidullaevJavohir)
 
