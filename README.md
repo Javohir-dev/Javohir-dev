@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javohir Khamidullaev</h1>
-<h3 align="center">FullStack developer.</h3>
+<h3 align="center">Python Full Stack developer.</h3>
 
 - 🔭 Discontinued project: [Ecology Uz](https://ecology-uz.netlify.app/)
 
