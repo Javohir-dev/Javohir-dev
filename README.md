@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://t.me/KhamidullaevJavohir](https://t.me/KhamidullaevJavohir)
 
-- 📝 I regularly write articles on: [https://t.me/javohir_twitgram](https://t.me/javohir_twitgram)
+- 📝 I regularly write articles on: [https://t.me/javohirTwits](https://t.me/JavohirTwits)
 
 - 📫 How to reach me: **javohir.py@gmail.com**
 
