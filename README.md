@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javohir Khamidullaev</h1>
 <h3 align="center">Python Full Stack developer.</h3>
 
-- 🔭 Discontinued project: [Ecology Uz](https://ecology-uz.netlify.app/)
+- 🔭 Discontinued project: [Breaking News](http://javohirdjango.pythonanywhere.com/)
 
-- 🔭 I created my free time: [IT Galactica](https://it-galactica.netlify.app/)
+- 🔭 I created my free time: [Ecology Uz](https://ecology-uz.netlify.app/)
 
 - 🌱 I'm currently learning: [FullStack Python (MohirDev)](https://mohirdev.uz/)
 
