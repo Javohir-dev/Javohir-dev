@@ -5,7 +5,7 @@
 
 - 🔭 I created my free time: [Ecology Uz](https://ecology-uz.netlify.app/)
 
-- 🌱 I'm currently learning: [FullStack Python (MohirDev)](https://mohirdev.uz/)
+<!-- - 🌱 I'm currently learning: [FullStack Python (MohirDev)](https://mohirdev.uz/) -->
 
 - 👨‍💻 All of my projects are available at: [https://t.me/KhamidullaevJavohir](https://t.me/KhamidullaevJavohir)
 
