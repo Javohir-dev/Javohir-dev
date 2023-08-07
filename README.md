@@ -27,6 +27,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javohir-dev&show_icons=true&locale=en&layout=compact" alt="javohir-dev" /></p>
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javohir-dev&show_icons=true&locale=en" alt="javohir-dev" /></p>
+ <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javohir-dev&show_icons=true&locale=en" alt="javohir-dev" /></p> -->
 
 <!-- <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javohir-dev&" alt="javohir-dev" /></p> -->
